@@ -18,3 +18,6 @@ For the detail, please refer to our paper: [https://arxiv.org/pdf/2410.08422](ht
 
 ## Code overview
 We present a PCA method in the graph frequency domain.
+
+## References
+Kim, K. and Oh, H.-S. (2024). Principal Component Analysis in the Graph Frequency Domain. arXiv preprint arXiv:2410.08422.
